@@ -4,6 +4,8 @@ A MATLAB-based speed control system for the RT050 DC motor rig, covering open-lo
 
 Developed as Practical Work 2 for the Control Systems course — University of Aveiro (DETI).
 
+![Network Topology](./motorspeedrt050.jpeg)
+
 ---
 
 ## Table of Contents
